@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Jeej8!
 
-<!--
-**Jeej8/Jeej8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+I’m currently a student majoring in Software Engineering, with a passion for building things and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+- **Java**
+- **C++**
+
+I’m in the process of mastering these languages and excited to start building projects with them soon!
+
+## 🚀 Projects & Achievements
+No public projects yet—but stay tuned! I plan to share my work here as I grow and develop as a software engineer.
+
+## 📜 Certifications
+I don’t have any certificates yet, but I’m working toward earning them in the near future.
+
+---
+
+> *“What you want wants you more.”*
+
+---
+
+Thanks for visiting my profile! Let’s connect and learn together.
